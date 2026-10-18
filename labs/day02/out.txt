@@ -1,0 +1,6 @@
+总计 16
+drwxrwxr-x 2 wdk wdk 4096 10月 15 09:42 dst
+-rw-rw-r-- 1 wdk wdk   13 10月 16 08:59 log.txt
+-rw-rw-r-- 1 wdk wdk    0 10月 18 12:43 out.txt
+-rw-rw-r-- 1 wdk wdk   22 10月 17 16:28 pipe.txt
+drwxrwxr-x 2 wdk wdk 4096 10月 15 09:42 src
